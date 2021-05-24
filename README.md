@@ -2,6 +2,6 @@
 
 I love jazz, rockets, chess, and turning ideas into code.
 
-Currently learning Django and React! 
+Currently diving into SLAM navigation!
 
 
