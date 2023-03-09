@@ -1,5 +1,6 @@
 ### Hi, I'm Ben Radosevich! 👋
 
-I love jazz, rockets, chess, and turning ideas into code.
+I am a senior student at UW-Madison studying Computer Science, Mathematics, and Physics.
+
 
 
