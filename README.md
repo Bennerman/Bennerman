@@ -1,8 +1,10 @@
 ### Hi, I'm Ben Radosevich! 👋
 
-I am a senior student at UW-Madison studying Computer Science, Mathematics, and Physics.
+I am a new UW-Madison graduate with degrees in Computer Science and Physics.
 
-I love space, pokemon, and jazz :D
+I love chess, rockets, and following soccer! 
+
+Currently, I'm building my own clothing company and working on becoming fluent in spanish.
 
 
 
